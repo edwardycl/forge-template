@@ -1,10 +1,10 @@
 {
-  "name": "contracts",
+  "name": "forge-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Template for a forge project",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "forge test -vv",
+    "build": "forge build"
   },
   "keywords": [],
   "author": "",
