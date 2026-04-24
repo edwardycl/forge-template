@@ -17,3 +17,5 @@ docs/
 node_modules/
 
 soljson-*.js
+
+.DS_Store
